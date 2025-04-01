@@ -1,0 +1,1 @@
+- [Community Discussions](https://github.com/astral-sh/uv/discussions): Engage with the uv community, ask questions, and share knowledge.
