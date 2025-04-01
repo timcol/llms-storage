@@ -1,1 +1,25 @@
+# uv
+
+> An extremely fast Python package and project manager, written in Rust.
+
+uv is a high-performance tool designed to streamline Python package installation, resolution, and project management. It serves as a faster and more efficient alternative to traditional Python tools like pip, poetry, and virtualenv.
+
+## Key Features
+
+- **Fast Package Installation**: Install packages up to 100 times faster than pip.
+- **Efficient Dependency Resolution**: Quickly resolve complex dependency graphs.
+- **Project Management**: Easily create and manage Python projects.
+- **Python Version Management**: Install and switch between multiple Python versions seamlessly.
+
+## Documentation
+
+- [Installation](https://docs.astral.sh/uv/getting-started/installation/): Step-by-step instructions for installing uv using various methods such as pip, Homebrew, or from source.
+- [Getting Started](https://docs.astral.sh/uv/getting-started/first-steps/): Learn the basics of using uv, including creating virtual environments, installing packages, and running scripts.
+- [Working with Projects](https://docs.astral.sh/uv/guides/projects/): Manage Python projects, including adding dependencies, building distributions, and publishing packages.
+- [Managing Python Versions](https://docs.astral.sh/uv/guides/install-python/): Install, list, and switch between different Python versions using uv.
+- [Command Line Reference](https://docs.astral.sh/uv/reference/cli/): Comprehensive reference for all uv commands and their options.
+
+## Optional Resources
+
+- [GitHub Repository](https://github.com/astral-sh/uv): Access the source code, report issues, and contribute to the development of uv.
 - [Community Discussions](https://github.com/astral-sh/uv/discussions): Engage with the uv community, ask questions, and share knowledge.
